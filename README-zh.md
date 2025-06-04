@@ -20,6 +20,7 @@
 
 | 项目 | Star数 | 语言 | 分类 | 状态 | 标签 | 主要特点 |
 |------|--------|------|------|------|------|----------|
+| [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | 2.2k+ | TypeScript/Python | 全栈, 智能体 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | Gemini, LangGraph, 全栈 | React前端, LangGraph后端, 动态搜索, 网页研究, 引用 |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | 11.9k+ | TypeScript | 多模态, 推理 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | LLM, 多源, 私有化 | 多步推理, 数据整合, 报告生成, 私有部署 |
 | [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) | 585+ | Fluent | 智能体, 文献 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | LLM, 多智能体, 浏览器 | 跨语言检索, 摘要, 建议, 浏览器自动化 |
 | [Deep Researcher](https://github.com/GAIR-NLP/DeepResearcher) | 397+ | Python | 强化学习, 学术 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | RL, 趋势, HuggingFace | 强化学习, 趋势分析, 7B模型, 交叉验证 |
@@ -42,6 +43,19 @@
 ## 项目详情
 
 ### 2025年
+
+#### [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Google Gemini
+- ⭐ 2.2k+ stars
+- 开发语言：TypeScript/Python
+- 特点：
+  - 基于React前端和LangGraph后端的全栈应用
+  - 采用Gemini 2.5和LangGraph进行高级研究
+  - 支持动态搜索查询生成和网页研究
+  - 具备反思推理能力，可识别知识缺口
+  - 生成带引用的答案，来源可靠
+  - 支持前端和后端开发的热重载
+  - Apache 2.0 许可证
+- 开源时间：2025年5月
 
 #### [DeerFlow](https://github.com/bytedance/deer-flow) - 字节跳动
 - ⭐ 11.9k+ stars

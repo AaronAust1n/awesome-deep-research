@@ -20,6 +20,7 @@
 
 | Project | Stars | Language | Category | Status | Tags | Features |
 |---------|-------|----------|----------|--------|------|----------|
+| [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | 2.2k+ | TypeScript/Python | Fullstack, Agent | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Gemini, LangGraph, Fullstack | React frontend, LangGraph backend, dynamic search, web research, citations |
 | [DeerFlow](https://github.com/bytedance/deer-flow) | 11.9k+ | TypeScript | Multi-modal, Reasoning | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-source, Private Deploy | Multi-step reasoning, data integration, report generation, private deploy |
 | [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) | 585+ | Fluent | Agent, Literature | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-agent, Browser | Cross-language retrieval, summary, suggestions, browser automation |
 | [Deep Researcher](https://github.com/GAIR-NLP/DeepResearcher) | 397+ | Python | RL, Academic | ![Active](https://img.shields.io/badge/status-active-brightgreen) | RL, Trend, HuggingFace | RL-based, trend analysis, 7B model, cross-validation |
@@ -42,6 +43,19 @@
 ## Project Details
 
 ### 2025
+
+#### [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - By Google Gemini
+- ⭐ 2.2k+ stars
+- Language: TypeScript/Python
+- Features:
+  - Fullstack application with React frontend and LangGraph backend
+  - Powered by Gemini 2.5 and LangGraph for advanced research
+  - Dynamic search query generation and web research
+  - Reflective reasoning to identify knowledge gaps
+  - Generates answers with citations from gathered sources
+  - Hot-reloading for both frontend and backend development
+  - Apache 2.0 License
+- Open Source Date: May 2025
 
 #### [DeerFlow](https://github.com/bytedance/deer-flow) - By ByteDance
 - ⭐ 11.9k+ stars
