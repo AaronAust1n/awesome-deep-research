@@ -20,32 +20,37 @@
 
 | Project | Stars | Language | Category | Status | Tags | Features |
 |---------|-------|----------|----------|--------|------|----------|
-| [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | 2.2k+ | TypeScript/Python | Fullstack, Agent | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Gemini, LangGraph, Fullstack | React frontend, LangGraph backend, dynamic search, web research, citations |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | 11.9k+ | TypeScript | Multi-modal, Reasoning | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-source, Private Deploy | Multi-step reasoning, data integration, report generation, private deploy |
-| [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) | 585+ | Fluent | Agent, Literature | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-agent, Browser | Cross-language retrieval, summary, suggestions, browser automation |
-| [Deep Researcher](https://github.com/GAIR-NLP/DeepResearcher) | 397+ | Python | RL, Academic | ![Active](https://img.shields.io/badge/status-active-brightgreen) | RL, Trend, HuggingFace | RL-based, trend analysis, 7B model, cross-validation |
-| [Deep Research](https://github.com/shibing624/deep-research) | 45+ | Python | Assistant, API | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, API, CLI, Gradio | Search+LLM, iterative, RESTful, Chinese support |
-| [Deep Searcher](https://github.com/zilliztech/deep-searcher) | 6.0k+ | Python | Search, Reasoning | ![Active](https://img.shields.io/badge/status-active-brightgreen) | API, SDK, Local | Private data, API, SDK, local deploy |
-| [deep-research](https://github.com/u14app/deep-research) | 2.7k+ | JavaScript | Report, SaaS | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, SaaS, PWA | Multi-LLM, fast report, local KB, PWA |
-| [open-deep-research](https://github.com/nickscamara/open-deep-research) | 5.6k+ | TypeScript | Web, Data Extraction | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Firecrawl, Next.js, SSR | Real-time extraction, multi-model, SSR |
-| [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) | 2.5k+ | Jupyter Notebook | Agent, Web | ![Active](https://img.shields.io/badge/status-active-brightgreen) | SERPAPI, Jina, Gradio | Iterative search, async, dedup, Gradio |
-| [local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 2.7k+ | Python | Local, RAG | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Local, RAG, Docker | Local run, privacy, vector search, Docker |
-| [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) | 1.9k+ | Vue/TypeScript | Web UI | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Web UI, Docker, Multi-AI | Real-time feedback, tree view, export |
-| [open-deep-research](https://github.com/btahir/open-deep-research) | 1.9k+ | TypeScript | Web, Report | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Gemini, Web, Vercel | AI report, modern UI, multi-model |
-| [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | 980+ | Python | Assistant, Automation | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Docker, File | Auto, multi-LLM, file upload, Docker |
-| [agents-deep-research](https://github.com/qx-labs/agents-deep-research) | 1.2k+ | Python | Multi-agent | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Multi-agent, Workflow | Autonomous, multi-source, workflow |
-| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | 4.3k+ | TypeScript | Web, Q&A | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, API, Docker | Iterative Q&A, local LLM, API |
-| [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) | 7.4k+ | Python | Local, Web | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Local, Web, Markdown | Local research, privacy, markdown |
-| [DeepGit](https://github.com/zamalali/DeepGit) | 722+ | Python | Code, GitHub | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Code, GitHub, ColBERT | Repo analysis, recommendation, workflow |
-| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | 3.4k+ | Python | Framework | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LangChain, Workflow | Multi-step, automation, local |
-| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 21.5k+ | Python | Agent, Report | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Citation, Streaming | Autonomous, multi-round, citation |
+| [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | 2.5k+ | TypeScript/Python | Fullstack, Agent | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Gemini, LangGraph, Fullstack | React frontend, LangGraph backend, dynamic search, web research, citations |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | 12.5k+ | TypeScript | Multi-modal, Reasoning | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-source, Private Deploy | Multi-step reasoning, data integration, report generation, private deploy |
+| [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) | 650+ | Fluent | Agent, Literature | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Multi-agent, Browser | Cross-language retrieval, summary, suggestions, browser automation |
+| [Deep Researcher](https://github.com/GAIR-NLP/DeepResearcher) | 450+ | Python | RL, Academic | ![Active](https://img.shields.io/badge/status-active-brightgreen) | RL, Trend, HuggingFace | RL-based, trend analysis, 7B model, cross-validation |
+| [Deep Research](https://github.com/shibing624/deep-research) | 60+ | Python | Assistant, API | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, API, CLI, Gradio | Search+LLM, iterative, RESTful, Chinese support |
+| [Deep Searcher](https://github.com/zilliztech/deep-searcher) | 6.5k+ | Python | Search, Reasoning | ![Active](https://img.shields.io/badge/status-active-brightgreen) | API, SDK, Local | Private data, API, SDK, local deploy |
+| [deep-research](https://github.com/u14app/deep-research) | 3.0k+ | JavaScript | Report, SaaS | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, SaaS, PWA | Multi-LLM, fast report, local KB, PWA |
+| [open-deep-research](https://github.com/nickscamara/open-deep-research) | 6.0k+ | TypeScript | Web, Data Extraction | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Firecrawl, Next.js, SSR | Real-time extraction, multi-model, SSR |
+| [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) | 2.8k+ | Jupyter Notebook | Agent, Web | ![Active](https://img.shields.io/badge/status-active-brightgreen) | SERPAPI, Jina, Gradio | Iterative search, async, dedup, Gradio |
+| [local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 3.0k+ | Python | Local, RAG | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Local, RAG, Docker | Local run, privacy, vector search, Docker |
+| [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) | 2.1k+ | Vue/TypeScript | Web UI | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Web UI, Docker, Multi-AI | Real-time feedback, tree view, export |
+| [open-deep-research](https://github.com/btahir/open-deep-research) | 2.1k+ | TypeScript | Web, Report | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Gemini, Web, Vercel | AI report, modern UI, multi-model |
+| [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | 1.1k+ | Python | Assistant, Automation | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Docker, File | Auto, multi-LLM, file upload, Docker |
+| [agents-deep-research](https://github.com/qx-labs/agents-deep-research) | 1.4k+ | Python | Multi-agent | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Multi-agent, Workflow | Autonomous, multi-source, workflow |
+| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | 4.8k+ | TypeScript | Web, Q&A | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, API, Docker | Iterative Q&A, local LLM, API |
+| [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) | 8.2k+ | Python | Local, Web | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Local, Web, Markdown | Local research, privacy, markdown |
+| [DeepGit](https://github.com/zamalali/DeepGit) | 850+ | Python | Code, GitHub | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Code, GitHub, ColBERT | Repo analysis, recommendation, workflow |
+| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | 3.8k+ | Python | Framework | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LangChain, Workflow | Multi-step, automation, local |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 23.5k+ | Python | Agent, Report | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Citation, Streaming | Autonomous, multi-round, citation |
+| [ResearStudio](https://github.com/ResearAI/ResearStudio) | 1.2k+ | Python | Agent, Interactive | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Human-in-loop, Real-time Control | Real-time intervention, plan editing, GAIA benchmark |
+| [DeepResearchGym](https://github.com/DeepResearchGym/DeepResearchGym) | 850+ | Python | Evaluation, Benchmark | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Evaluation, Benchmark | Reproducible search API, strict evaluation protocol |
+| [FlowSearch](https://github.com/Alpha-Innovator/FlowSearch) | 650+ | Python | Multi-agent, Knowledge Flow | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Multi-agent, Knowledge Flow | Dynamic knowledge flow construction, GAIA benchmark |
+| [InfoSeek](https://github.com/BAAI-Infoseek/InfoSeek) | 420+ | Python | Data Synthesis, Training | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Data Synthesis, Training Data | Diffusion-backtracking process, large-scale data augmentation |
+| [MiroFlow](https://github.com/MiroMind/MiroFlow) | 2.8k+ | Python | Agent, Fullstack | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Agent Framework, Fullstack | Multi-tool calling, GAIA high score, mobile support |
 
 ## Project Details
 
 ### 2025
 
 #### [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - By Google Gemini
-- ⭐ 2.2k+ stars
+- ⭐ 2.5k+ stars
 - Language: TypeScript/Python
 - Features:
   - Fullstack application with React frontend and LangGraph backend
@@ -58,7 +63,7 @@
 - Open Source Date: May 2025
 
 #### [DeerFlow](https://github.com/bytedance/deer-flow) - By ByteDance
-- ⭐ 11.9k+ stars
+- ⭐ 12.5k+ stars
 - Language: TypeScript
 - Features:
   - Multi-step reasoning and complex problem decomposition
@@ -69,7 +74,7 @@
 - Open Source Date: May 2025
 
 #### [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) - By SkyworkAI
-- ⭐ 585+ stars
+- ⭐ 650+ stars
 - Language: Fluent
 - Features:
   - LLM-based intelligent research assistant
@@ -83,7 +88,7 @@
 - Open Source Date: May 2025
 
 #### [Deep Researcher](https://github.com/GAIR-NLP/DeepResearcher) - By GAIR-NLP
-- ⭐ 397+ stars
+- ⭐ 450+ stars
 - Language: Python
 - Features:
   - Reinforcement learning based deep research system
@@ -98,7 +103,7 @@
 - Open Source Date: April 2025
 
 #### [Deep Research](https://github.com/shibing624/deep-research) - Personal Project
-- ⭐ 45+ stars
+- ⭐ 60+ stars
 - Language: Python
 - Features:
   - AI-powered research assistant
@@ -114,7 +119,7 @@
 - Open Source Date: March 2025
 
 #### [Deep Searcher](https://github.com/zilliztech/deep-searcher) - By Zilliz
-- ⭐ 6.0k+ stars
+- ⭐ 6.5k+ stars
 - Language: Python
 - Features:
   - Open source deep research alternative
@@ -127,7 +132,7 @@
 - Open Source Date: February 2025
 
 #### [deep-research](https://github.com/u14app/deep-research) - By u14app
-- ⭐ 2.7k+ stars
+- ⭐ 3.0k+ stars
 - Language: JavaScript
 - Features:
   - Supports multiple mainstream LLMs (Gemini, OpenAI, Anthropic, Deepseek, Mistral, etc.), freely switchable
@@ -141,7 +146,7 @@
 - Open Source Date: February 2025
 
 #### [open-deep-research](https://github.com/nickscamara/open-deep-research) - By nickscamara
-- ⭐ 5.6k+ stars
+- ⭐ 6.0k+ stars
 - Language: TypeScript
 - Features:
   - Real-time data extraction and reasoning based on Firecrawl, simulating OpenAI Deep Research experiment
@@ -153,7 +158,7 @@
 - Open Source Date: February 2025
 
 #### [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) - By mshumer
-- ⭐ 2.5k+ stars
+- ⭐ 2.8k+ stars
 - Language: Jupyter Notebook
 - Features:
   - AI researcher, automatic iterative search, web scraping, reasoning, and report generation
@@ -166,7 +171,7 @@
 - Open Source Date: February 2025
 
 #### [local-deep-research](https://github.com/LearningCircuit/local-deep-research) - By LearningCircuit
-- ⭐ 2.7k+ stars
+- ⭐ 3.0k+ stars
 - Language: Python
 - Features:
   - Local AI deep research assistant, supports multiple LLMs and multi-source knowledge integration
@@ -178,7 +183,7 @@
 - Open Source Date: February 2025
 
 #### [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - By AnotiaWang
-- ⭐ 1.9k+ stars
+- ⭐ 2.1k+ stars
 - Language: Vue/TypeScript
 - Features:
   - Web UI for deep research with real-time feedback and search visualization
@@ -193,7 +198,7 @@
 - Open Source Date: February 2025
 
 #### [open-deep-research](https://github.com/btahir/open-deep-research) - By btahir
-- ⭐ 1.9k+ stars
+- ⭐ 2.1k+ stars
 - Language: TypeScript
 - Features:
   - Open source alternative to Gemini Deep Research
@@ -205,7 +210,7 @@
 - Open Source Date: February 2025
 
 #### [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - By HKUDS
-- ⭐ 980+ stars
+- ⭐ 1.1k+ stars
 - Language: Python
 - Features:
   - Fully-automated and cost-effective personal AI assistant
@@ -219,7 +224,7 @@
 - Open Source Date: February 2025
 
 #### [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - By QX Labs
-- ⭐ 1.2k+ stars
+- ⭐ 1.4k+ stars
 - Language: Python
 - Features:
   - Multi-agent system for deep research tasks
@@ -233,7 +238,7 @@
 - Open Source Date: February 2025
 
 #### [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - By Jina AI
-- ⭐ 4.3k+ stars
+- ⭐ 4.8k+ stars
 - Language: TypeScript
 - Features:
   - Automated web search, content extraction, and reasoning, iteratively performing "search-read-reason" until an answer is found or token budget is exceeded
@@ -246,7 +251,7 @@
 - Open Source Date: January 2025
 
 #### [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - By LangChain AI
-- ⭐ 7.4k+ stars
+- ⭐ 8.2k+ stars
 - Language: Python
 - Features:
   - Fully local web research and report generation assistant, all data and reasoning can be performed locally for privacy protection
@@ -259,7 +264,7 @@
 - Open Source Date: December 2024
 
 #### [DeepGit](https://github.com/zamalali/DeepGit) - Personal Project
-- ⭐ 722+ stars
+- ⭐ 850+ stars
 - Language: Python
 - Features:
   - Research agent for finding best GitHub repositories
@@ -275,7 +280,7 @@
 - Open Source Date: December 2024
 
 #### [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - By LangChain AI
-- ⭐ 3.4k+ stars
+- ⭐ 3.8k+ stars
 - Language: Python
 - Features:
   - LangChain-based deep research framework
@@ -288,7 +293,7 @@
 - Open Source Date: November 2024
 
 #### [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - By assafelovic
-- ⭐ 21.5k+ stars
+- ⭐ 23.5k+ stars
 - Language: Python
 - Features:
   - LLM-based autonomous agent for local and web deep research
@@ -298,6 +303,71 @@
   - Suitable for academic, market, technical, and other deep information integration scenarios
   - Apache 2.0 License
 - Open Source Date: May 2023
+
+#### [ResearStudio](https://github.com/ResearAI/ResearStudio) - By ResearAI
+- ⭐ 1.2k+ stars
+- Language: Python
+- Features:
+  - Human-in-the-loop framework for building controllable deep research agents
+  - Real-time human intervention and control during execution
+  - Hierarchical planner-executor architecture with real-time "plan document" writing
+  - Fast communication layer streaming every action, file change, and tool call
+  - Users can pause, edit plans or code, run custom commands at any time
+  - State-of-the-art results on GAIA benchmark, surpassing OpenAI DeepResearch
+  - Collaborative workshop design with real-time human control
+- Open Source Date: October 2025
+
+#### [DeepResearchGym](https://github.com/DeepResearchGym/DeepResearchGym) - By DeepResearchGym
+- ⭐ 850+ stars
+- Language: Python
+- Features:
+  - Free, transparent, and reproducible evaluation sandbox for deep research systems
+  - Combines reproducible search API with strict evaluation protocols
+  - API indexes large-scale public web corpora (ClueWeb22, FineWeb, etc.)
+  - Uses state-of-the-art dense retrievers and approximate nearest neighbor search
+  - Achieves lower latency than popular commercial APIs
+  - Ensures stable document ranking across runs
+  - Extends Researchy Questions benchmark with LLM-as-judge automatic metrics
+  - Measures alignment with user information needs, retrieval faithfulness, and report quality
+- Open Source Date: May 2025
+
+#### [FlowSearch](https://github.com/Alpha-Innovator/FlowSearch) - By Alpha-Innovator
+- ⭐ 650+ stars
+- Language: Python
+- Features:
+  - Multi-agent framework that dynamically constructs and evolves structured knowledge flows
+  - Knowledge flow system driving subtask execution and reasoning
+  - Excellent performance on GAIA, HLE, GPQA, and TRQA benchmarks
+  - Supports decomposition and execution of complex research tasks
+  - Intelligent knowledge flow management and optimization
+  - Suitable for deep research scenarios requiring multi-step reasoning
+- Open Source Date: October 2025
+
+#### [InfoSeek](https://github.com/BAAI-Infoseek/InfoSeek) - By Beijing Academy of Artificial Intelligence
+- ⭐ 420+ stars
+- Language: Python
+- Features:
+  - First deep research data synthesis framework
+  - Addresses data scarcity in deep research field
+  - Data synthesis method based on "diffusion-backtracking" process
+  - Enables large-scale automatic augmentation of deep research training data
+  - Open-source dataset with 50,000 training samples
+  - Supports generation and validation of high-quality research data
+  - Suitable for training and evaluating deep research systems
+- Open Source Date: September 2025
+
+#### [MiroFlow](https://github.com/MiroMind/MiroFlow) - By MiroMind
+- ⭐ 2.8k+ stars
+- Language: Python
+- Features:
+  - Part of full-stack open-source deep research project (ODR)
+  - Agent framework supporting multiple mainstream tool calls
+  - Achieves 82.4 score on GAIA validation set, surpassing existing commercial model APIs
+  - Includes MiroFlow (Agent framework), MiroThinker (core model), MiroVerse (dataset), MiroTrain/MiroRL (training infrastructure)
+  - Supports mobile device deployment
+  - Provides open, reusable research platform for developers
+  - Promotes innovation and collaboration in AI field
+- Open Source Date: August 2025
 
 ## Contributing Guidelines
 
