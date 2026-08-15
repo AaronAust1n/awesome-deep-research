@@ -41,6 +41,7 @@
 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 23.5k+ | Python | Agent, Report | ![Active](https://img.shields.io/badge/status-active-brightgreen) | LLM, Citation, Streaming | Autonomous, multi-round, citation |
 | [ResearStudio](https://github.com/ResearAI/ResearStudio) | 1.2k+ | Python | Agent, Interactive | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Human-in-loop, Real-time Control | Real-time intervention, plan editing, GAIA benchmark |
 | [DeepResearchGym](https://github.com/DeepResearchGym/DeepResearchGym) | 850+ | Python | Evaluation, Benchmark | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Evaluation, Benchmark | Reproducible search API, strict evaluation protocol |
+| [Dr. Bench](https://github.com/EVIGBYEN/DrBench) | 8+ | Python | Evaluation, Benchmark | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Long-form reports, Retrieval | 214 expert-curated deep-research tasks with report-quality and retrieval-trustworthiness metrics |
 | [FlowSearch](https://github.com/Alpha-Innovator/FlowSearch) | 650+ | Python | Multi-agent, Knowledge Flow | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Multi-agent, Knowledge Flow | Dynamic knowledge flow construction, GAIA benchmark |
 | [InfoSeek](https://github.com/BAAI-Infoseek/InfoSeek) | 420+ | Python | Data Synthesis, Training | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Data Synthesis, Training Data | Diffusion-backtracking process, large-scale data augmentation |
 | [MiroFlow](https://github.com/MiroMind/MiroFlow) | 2.8k+ | Python | Agent, Fullstack | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Agent Framework, Fullstack | Multi-tool calling, GAIA high score, mobile support |
@@ -380,4 +381,4 @@ Pull requests are welcome! Please ensure:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). 
+This project is licensed under the [MIT License](LICENSE).
