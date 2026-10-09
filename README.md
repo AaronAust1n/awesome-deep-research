@@ -55,6 +55,7 @@
 
 | Project | Stars | Language | Category | Status | Tags | Features |
 |---------|-------|----------|----------|--------|------|----------|
+| [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) | 160 | Python | Skill, Research Workflow | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Multi-host, MCP, Independent Review | Research methods, source and claim tracking, saved progress, report review |
 | [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 3.7k+ | Python | Skill, Deep Research | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Claude Code, Codex, Citation Verification | 16-step pipeline, citation verification, persistent source vault |
 | [DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | 1.1k+ | Python | Skill, Paper Reading | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Obsidian, Multi-host | Paper deep-reading, Obsidian notes, multi-host support |
 | [x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.2k+ | TypeScript | Skill, Social Media | ![Active](https://img.shields.io/badge/status-active-brightgreen) | X/Twitter, Briefings | X/Twitter search, thread following, sourced briefings |
@@ -444,6 +445,18 @@
 - Open Source Date: May 2023
 
 ### Agent Skills
+
+#### [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) - By rrrrrredy
+- ⭐ 160 stars
+- Language: Python
+- Features:
+  - Research methods for industry, product, company, and technical reports across AI agents
+  - Source and claim records, saved task progress, and independent report review
+  - Skill with optional plugin and local MCP workflow tools
+  - English and Chinese documentation, a complete report, and real revision examples
+  - Retrieval uses the host agent; MCP review defaults to a signed-in Codex CLI or a configured review command
+  - MIT License
+- Open Source Date: June 2026
 
 #### [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - By jordan-gibbs
 - ⭐ 3.7k+ stars

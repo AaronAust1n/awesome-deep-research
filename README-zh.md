@@ -55,6 +55,7 @@
 
 | 项目 | Star数 | 语言 | 分类 | 状态 | 标签 | 主要特点 |
 |------|--------|------|------|------|------|----------|
+| [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) | 160 | Python | 技能, 研究工作流 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | 多宿主, MCP, 独立审阅 | 研究方法、来源与论点记录、任务恢复、报告审阅 |
 | [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 3.7k+ | Python | 技能, 深度研究 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | Claude Code, Codex, 引用核验 | 16步流水线, 引用核验, 持久来源库 |
 | [DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | 1.1k+ | Python | 技能, 论文阅读 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | Obsidian, 多宿主 | 论文精读, Obsidian笔记, 多宿主支持 |
 | [x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.2k+ | TypeScript | 技能, 社交媒体 | ![活跃](https://img.shields.io/badge/项目状态-活跃-green) | X/Twitter, 简报 | X/Twitter检索, 线程追踪, 带来源简报 |
@@ -444,6 +445,18 @@
 - 开源时间：2023年5月
 
 ### 智能体技能
+
+#### [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) - rrrrrredy
+- ⭐ 160 stars
+- 开发语言：Python
+- 特点：
+  - 面向行业、产品、公司与技术研究的研究方法，可交给不同 Agent 使用
+  - 来源与论点记录、任务进度保存和独立报告审阅
+  - 提供 Skill，以及可选的插件和本地 MCP 工作流工具
+  - 中英文文档、完整报告案例及真实改稿示例
+  - 检索依赖宿主 Agent；MCP 审阅默认使用已登录的 Codex CLI，也支持配置其他审阅命令
+  - MIT 许可证
+- 开源时间：2026年6月
 
 #### [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - jordan-gibbs
 - ⭐ 3.7k+ stars
